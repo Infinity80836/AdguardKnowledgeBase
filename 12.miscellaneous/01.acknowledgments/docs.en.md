@@ -70,6 +70,8 @@ Sanjay Nand
 
 [ag_bug_finder](http://forum.adguard.com/member.php?3639)
 
+Infinity80836
+
 <a id="mac"></a>
 ## AdGuard for Mac
 <a id="third2"></a>
